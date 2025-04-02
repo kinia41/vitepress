@@ -33,15 +33,6 @@ export default {
         },
         socialLinks: [
             { icon: 'github', link: 'https://github.com/vuejs/vitepress' },
-            // 可以通过将 SVG 作为字符串传递来添加自定义图标：
-            {
-                icon: {
-                    svg: '<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Dribbble</title><path d="M12...6.38z"/></svg>'
-                },
-                link: '...',
-                // 也可以为无障碍添加一个自定义标签 (可选但推荐):
-                ariaLabel: 'cool link'
-            }
         ],
         search: {
             provider: 'local'
