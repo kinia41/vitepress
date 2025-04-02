@@ -5,7 +5,6 @@ export default {
     head: [
         ['link', { rel: 'icon', href: '/excel.svg' }],
     ],
-    base:'/vitepress',
     // 主题配置
     themeConfig: {
         logo: '/excel.svg',
