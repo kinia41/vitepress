@@ -1,11 +1,11 @@
 export default {
+    base:'/vitepress/',
     // 站点级选项
     title: '我的 VitePress 网站',
     description: '这是我的第一个 VitePress 网站',
     head: [
         ['link', { rel: 'icon', href: '/excel.svg' }],
     ],
-    base:'/vitepress/',
     // 主题配置
     themeConfig: {
         logo: '/excel.svg',
