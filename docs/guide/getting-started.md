@@ -2,4 +2,4 @@
 
 快速开始
 
-[开始](./guide/getting-started)
+[开始](./getting-started.md)

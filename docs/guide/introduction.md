@@ -2,4 +2,4 @@
 
 介绍
 
-[开始](./guide/getting-started)
+[开始](./introduction.md)
